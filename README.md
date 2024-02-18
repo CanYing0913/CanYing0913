@@ -1,7 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.1%20million%20lines%20of%20code-blue)
 
@@ -9,11 +7,11 @@
 
 > 📦 964.1 kB Used in GitHub's Storage 
  > 
-> 🏆 45 Contributions in the Year 2024
+> 🏆 46 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 11 Public Repositories 
  > 
 > 🔑 27 Private Repositories 
  > 
@@ -44,13 +42,17 @@ Sunday                   45 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     8 mins              ████████████░░░░░░░░░░░░░   46.80 % 
+Markdown                 7 mins              ██████████░░░░░░░░░░░░░░░   42.00 % 
+Python                   1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  15 mins             ██████████████████████░░░   88.81 % 
+PyCharm                  1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      15 mins             ██████████████████████░░░   88.81 % 
+Windows                  1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
 ```
 
 **I Mostly Code in Python** 

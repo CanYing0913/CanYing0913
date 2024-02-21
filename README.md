@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=00FFFF&vCenter=true&width=200&height=40&lines=Hi+Welcome+%F0%9F%91%8B%F0%9F%8F%BB;I'm+CanYing|残影)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=00FFFF&vCenter=true&width=250&height=40&lines=Hi+Welcome+%F0%9F%91%8B%F0%9F%8F%BB;I'm+CanYing|残影)](https://git.io/typing-svg)
 
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=CanYing0913&count_private=true&rank_icon=github&show_icons=true&bg_color=15,f2f7fd,E0EAFC&" />

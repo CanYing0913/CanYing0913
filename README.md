@@ -4,9 +4,9 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=CanYing0913&count_private=true&rank_icon=github&show_icons=true&bg_color=15,f2f7fd,E0EAFC&" />
 </a>
 
-### 关于我
-
 Welcome to Github page for CanYing! | 欢迎来到残影的GitHub主页！
+
+### 关于我
 
 🌟 **My Skills**  
 ![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=fff)

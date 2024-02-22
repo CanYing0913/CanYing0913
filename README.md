@@ -6,7 +6,7 @@
 
 Welcome to Github page for CanYing! | 欢迎来到残影的GitHub主页！
 
-### 关于我
+### About me | 关于我
 
 🌟 **My Skills**  
 ![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=fff)

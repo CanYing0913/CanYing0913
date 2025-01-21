@@ -15,7 +15,7 @@ Welcome to Github page for CanYing! | 欢迎来到残影的GitHub主页！
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C317%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C318%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -60,13 +60,17 @@ Sunday                   147 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    5 hrs 15 mins       █████████████████████████   100.00 % 
+Other                    5 hrs 15 mins       █████████████████████████   99.95 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Google Calendar          5 hrs 15 mins       █████████████████████████   100.00 % 
+Google Calendar          5 hrs 15 mins       █████████████████████████   99.95 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Unknown OS               5 hrs 15 mins       █████████████████████████   100.00 % 
+Unknown OS               5 hrs 15 mins       █████████████████████████   99.95 % 
+Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 **I Mostly Code in Python** 

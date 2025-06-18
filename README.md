@@ -15,9 +15,9 @@ Welcome to Github page for CanYing! | 欢迎来到残影的GitHub主页！
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C675%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C692%20hrs%2050%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.9%20million%20lines%20of%20code-blue)
 
@@ -25,7 +25,7 @@ Welcome to Github page for CanYing! | 欢迎来到残影的GitHub主页！
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 114 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,19 +60,19 @@ Sunday                   170 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    30 hrs 54 mins      ██████████████████░░░░░░░   71.08 % 
-Cuda                     6 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Python                   5 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Bash                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-Makefile                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Other                    28 hrs 57 mins      ██████████████████░░░░░░░   73.90 % 
+Cuda                     4 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Python                   4 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Bash                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Makefile                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 Editors: 
-Google Calendar          28 hrs 52 mins      █████████████████░░░░░░░░   66.44 % 
-Cursor                   14 hrs 35 mins      ████████░░░░░░░░░░░░░░░░░   33.56 % 
+Google Calendar          27 hrs 13 mins      █████████████████░░░░░░░░   69.49 % 
+Cursor                   11 hrs 57 mins      ████████░░░░░░░░░░░░░░░░░   30.51 % 
 
 💻 Operating System: 
-Unknown OS               28 hrs 52 mins      █████████████████░░░░░░░░   66.44 % 
-Linux                    14 hrs 35 mins      ████████░░░░░░░░░░░░░░░░░   33.56 % 
+Unknown OS               27 hrs 13 mins      █████████████████░░░░░░░░   69.49 % 
+Linux                    11 hrs 57 mins      ████████░░░░░░░░░░░░░░░░░   30.51 % 
 ```
 
 **I Mostly Code in Python** 

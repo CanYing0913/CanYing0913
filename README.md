@@ -25,8 +25,6 @@ Welcome to Github page for CanYing! | 欢迎来到残影的GitHub主页！
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 196 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 

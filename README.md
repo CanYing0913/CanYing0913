@@ -15,8 +15,6 @@ Welcome to Github page for CanYing! | 欢迎来到残影的GitHub主页！
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C755%20hrs%2021%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.9%20million%20lines%20of%20code-blue)
@@ -33,42 +31,6 @@ Welcome to Github page for CanYing! | 欢迎来到残影的GitHub主页！
  > 
 > 🔑 38 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                293 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-🌆 Daytime                703 commits         █████████░░░░░░░░░░░░░░░░   35.61 % 
-🌃 Evening                755 commits         ██████████░░░░░░░░░░░░░░░   38.25 % 
-🌙 Night                  223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   313 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-Tuesday                  346 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-Wednesday                279 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Thursday                 348 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-Friday                   261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Saturday                 211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-Sunday                   216 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Los_Angeles
-
-💬 Programming Languages: 
-Other                    5 hrs               █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Google Calendar          5 hrs               █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Unknown OS               5 hrs               █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text

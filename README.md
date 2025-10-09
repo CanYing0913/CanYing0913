@@ -25,11 +25,11 @@ Welcome to Github page for CanYing! | 欢迎来到残影的GitHub主页！
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 199 Contributions in the Year 2025
+> 🏆 201 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 10 Public Repositories 
  > 
 > 🔑 38 Private Repositories 
  > 
@@ -60,13 +60,13 @@ Sunday                   216 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    7 hrs 17 mins       █████████████████████████   100.00 % 
+Other                    1 hr                █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          7 hrs 17 mins       █████████████████████████   100.00 % 
+Google Calendar          1 hr                █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Unknown OS               7 hrs 17 mins       █████████████████████████   100.00 % 
+Unknown OS               1 hr                █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 

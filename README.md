@@ -15,7 +15,7 @@ Welcome to Github page for CanYing! | 欢迎来到残影的GitHub主页！
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C766%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C767%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -25,13 +25,13 @@ Welcome to Github page for CanYing! | 欢迎来到残影的GitHub主页！
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 203 Contributions in the Year 2025
+> 🏆 204 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
  > 
-> 🔑 39 Private Repositories 
+> 🔑 40 Private Repositories 
  > 
 **I'm an Early 🐤** 
 

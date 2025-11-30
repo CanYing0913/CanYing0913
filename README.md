@@ -60,13 +60,13 @@ Sunday                   218 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr                █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Google Calendar          1 hr                █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Unknown OS               1 hr                █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 

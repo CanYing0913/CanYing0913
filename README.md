@@ -25,29 +25,29 @@ Welcome to Github page for CanYing! | 欢迎来到残影的GitHub主页！
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2026
+> 🏆 3 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
  > 
-> 🔑 40 Private Repositories 
+> 🔑 41 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                308 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-🌆 Daytime                843 commits         █████████░░░░░░░░░░░░░░░░   35.80 % 
-🌃 Evening                921 commits         ██████████░░░░░░░░░░░░░░░   39.11 % 
-🌙 Night                  283 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+🌞 Morning                308 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+🌆 Daytime                843 commits         █████████░░░░░░░░░░░░░░░░   35.78 % 
+🌃 Evening                922 commits         ██████████░░░░░░░░░░░░░░░   39.13 % 
+🌙 Night                  283 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   409 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-Tuesday                  384 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Wednesday                345 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Thursday                 405 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Monday                   409 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Tuesday                  384 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Wednesday                345 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Thursday                 406 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
 Friday                   281 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
 Saturday                 253 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
 Sunday                   278 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 

@@ -19,13 +19,13 @@ Welcome to Github page for CanYing! | 欢迎来到残影的GitHub主页！
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.18%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.16%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 57 Contributions in the Year 2026
+> 🏆 71 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -37,19 +37,19 @@ Welcome to Github page for CanYing! | 欢迎来到残影的GitHub主页！
 
 ```text
 🌞 Morning                267 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-🌆 Daytime                712 commits         █████████░░░░░░░░░░░░░░░░   34.68 % 
+🌆 Daytime                714 commits         █████████░░░░░░░░░░░░░░░░   34.78 % 
 🌃 Evening                804 commits         ██████████░░░░░░░░░░░░░░░   39.16 % 
-🌙 Night                  270 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+🌙 Night                  268 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   369 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
 Tuesday                  317 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Wednesday                307 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Wednesday                304 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
 Thursday                 352 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-Friday                   237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Saturday                 225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Friday                   238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Saturday                 227 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
 Sunday                   246 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
 ```
 

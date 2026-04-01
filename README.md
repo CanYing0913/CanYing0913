@@ -15,7 +15,7 @@ Welcome to Github page for CanYing! | 欢迎来到残影的GitHub主页！
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C101%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C101%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -36,21 +36,21 @@ Welcome to Github page for CanYing! | 欢迎来到残影的GitHub主页！
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                304 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-🌆 Daytime                716 commits         ████████░░░░░░░░░░░░░░░░░   33.74 % 
-🌃 Evening                819 commits         ██████████░░░░░░░░░░░░░░░   38.60 % 
-🌙 Night                  283 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+🌞 Morning                306 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+🌆 Daytime                716 commits         ████████░░░░░░░░░░░░░░░░░   33.71 % 
+🌃 Evening                819 commits         ██████████░░░░░░░░░░░░░░░   38.56 % 
+🌙 Night                  283 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   385 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-Tuesday                  322 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Wednesday                319 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Thursday                 360 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Friday                   245 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Saturday                 235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Sunday                   256 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Monday                   385 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Tuesday                  322 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Wednesday                321 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Thursday                 360 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Friday                   245 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Saturday                 235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Sunday                   256 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
 ```
 
 

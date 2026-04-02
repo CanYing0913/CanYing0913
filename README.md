@@ -36,21 +36,21 @@ Welcome to Github page for CanYing! | 欢迎来到残影的GitHub主页！
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                306 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-🌆 Daytime                716 commits         ████████░░░░░░░░░░░░░░░░░   33.71 % 
-🌃 Evening                819 commits         ██████████░░░░░░░░░░░░░░░   38.56 % 
-🌙 Night                  283 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+🌞 Morning                307 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+🌆 Daytime                716 commits         ████████░░░░░░░░░░░░░░░░░   33.66 % 
+🌃 Evening                820 commits         ██████████░░░░░░░░░░░░░░░   38.55 % 
+🌙 Night                  284 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   385 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-Tuesday                  322 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Wednesday                321 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Thursday                 360 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-Friday                   245 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Saturday                 235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Sunday                   256 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Monday                   385 commits         █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+Tuesday                  322 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Wednesday                322 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Thursday                 362 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Friday                   245 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Saturday                 235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Sunday                   256 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
 ```
 
 

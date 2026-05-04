@@ -25,7 +25,7 @@ Welcome to Github page for CanYing! | 欢迎来到残影的GitHub主页！
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 144 Contributions in the Year 2026
+> 🏆 148 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,21 +36,21 @@ Welcome to Github page for CanYing! | 欢迎来到残影的GitHub主页！
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                387 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-🌆 Daytime                721 commits         ████████░░░░░░░░░░░░░░░░░   31.90 % 
-🌃 Evening                834 commits         █████████░░░░░░░░░░░░░░░░   36.90 % 
-🌙 Night                  318 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+🌞 Morning                388 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+🌆 Daytime                721 commits         ████████░░░░░░░░░░░░░░░░░   31.85 % 
+🌃 Evening                834 commits         █████████░░░░░░░░░░░░░░░░   36.84 % 
+🌙 Night                  321 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   414 commits         █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-Tuesday                  337 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-Wednesday                340 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Thursday                 398 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Friday                   256 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Saturday                 245 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-Sunday                   270 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Monday                   418 commits         █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+Tuesday                  337 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Wednesday                340 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Thursday                 398 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Friday                   256 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Saturday                 245 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Sunday                   270 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
 ```
 
 
@@ -72,11 +72,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   19 repos            █████████░░░░░░░░░░░░░░░░   35.85 % 
-C++                      9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Python                   18 repos            █████████░░░░░░░░░░░░░░░░   34.62 % 
+C++                      9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 
 

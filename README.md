@@ -15,17 +15,15 @@ Welcome to Github page for CanYing! | 欢迎来到残影的GitHub主页！
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C105%20hrs%2053%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.48%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.49%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 150 Contributions in the Year 2026
+> 🏆 151 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -33,45 +31,6 @@ Welcome to Github page for CanYing! | 欢迎来到残影的GitHub主页！
  > 
 > 🔑 43 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                419 commits         █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-🌆 Daytime                721 commits         ████████░░░░░░░░░░░░░░░░░   31.23 % 
-🌃 Evening                841 commits         █████████░░░░░░░░░░░░░░░░   36.42 % 
-🌙 Night                  328 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   433 commits         █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Tuesday                  344 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Wednesday                346 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-Thursday                 405 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-Friday                   258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Saturday                 250 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Sunday                   273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Los_Angeles
-
-💬 Programming Languages: 
-Python                   2 hrs 38 mins       ███████████████████░░░░░░   74.97 % 
-Markdown                 38 mins             █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 10 mins       ███████████████████████░░   90.39 % 
-Unknown Editor           20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-
-💻 Operating System: 
-Mac                      3 hrs 31 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text

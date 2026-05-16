@@ -15,6 +15,8 @@ Welcome to Github page for CanYing! | 欢迎来到残影的GitHub主页！
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C106%20hrs%2054%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.49%20million%20lines%20of%20code-blue?style=flat)
@@ -31,6 +33,45 @@ Welcome to Github page for CanYing! | 欢迎来到残影的GitHub主页！
  > 
 > 🔑 43 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                420 commits         █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+🌆 Daytime                721 commits         ████████░░░░░░░░░░░░░░░░░   31.21 % 
+🌃 Evening                841 commits         █████████░░░░░░░░░░░░░░░░   36.41 % 
+🌙 Night                  328 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   433 commits         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+Tuesday                  344 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Wednesday                346 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+Thursday                 405 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Friday                   259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Saturday                 250 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Sunday                   273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+Python                   3 hrs 11 mins       ███████████████████░░░░░░   77.22 % 
+Markdown                 52 mins             █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 41 mins       ██████████████████████░░░   89.52 % 
+Unknown Editor           25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+
+💻 Operating System: 
+Mac                      4 hrs 7 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text

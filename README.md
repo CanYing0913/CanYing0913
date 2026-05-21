@@ -33,6 +33,47 @@ Welcome to Github page for CanYing! | 欢迎来到残影的GitHub主页！
  > 
 > 🔑 43 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                379 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+🌆 Daytime                718 commits         ████████░░░░░░░░░░░░░░░░░   32.07 % 
+🌃 Evening                829 commits         █████████░░░░░░░░░░░░░░░░   37.03 % 
+🌙 Night                  313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   415 commits         █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+Tuesday                  335 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Wednesday                334 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Thursday                 392 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Friday                   252 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Saturday                 244 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Sunday                   267 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+Other                    1 hr                ████████████░░░░░░░░░░░░░   49.61 % 
+Python                   37 mins             ████████░░░░░░░░░░░░░░░░░   30.64 % 
+Markdown                 23 mins             █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+
+🔥 Editors: 
+Google Calendar          1 hr                ████████████░░░░░░░░░░░░░   49.61 % 
+VS Code                  45 mins             █████████░░░░░░░░░░░░░░░░   37.62 % 
+Claude Code              15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+
+💻 Operating System: 
+Mac                      1 hr                █████████████░░░░░░░░░░░░   50.39 % 
+Unknown OS               1 hr                ████████████░░░░░░░░░░░░░   49.61 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text

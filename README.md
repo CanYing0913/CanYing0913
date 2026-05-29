@@ -15,9 +15,11 @@ Welcome to Github page for CanYing! | 欢迎来到残影的GitHub主页！
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C100%20hrs%2046%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.29%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.34%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -31,6 +33,42 @@ Welcome to Github page for CanYing! | 欢迎来到残影的GitHub主页！
  > 
 > 🔑 42 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                270 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+🌆 Daytime                713 commits         █████████░░░░░░░░░░░░░░░░   34.65 % 
+🌃 Evening                804 commits         ██████████░░░░░░░░░░░░░░░   39.07 % 
+🌙 Night                  271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   373 commits         █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+Tuesday                  315 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+Wednesday                300 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Thursday                 354 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Friday                   240 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Saturday                 227 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Sunday                   249 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+Other                    1 hr                █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Google Calendar          1 hr                █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Unknown OS               1 hr                █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text

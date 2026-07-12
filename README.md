@@ -19,7 +19,7 @@ Welcome to Github page for CanYing! | 欢迎来到残影的GitHub主页！
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40.69%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40.70%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -36,21 +36,21 @@ Welcome to Github page for CanYing! | 欢迎来到残影的GitHub主页！
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                281 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-🌆 Daytime                721 commits         ████████░░░░░░░░░░░░░░░░░   33.60 % 
-🌃 Evening                825 commits         ██████████░░░░░░░░░░░░░░░   38.44 % 
+🌞 Morning                282 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+🌆 Daytime                721 commits         ████████░░░░░░░░░░░░░░░░░   33.58 % 
+🌃 Evening                825 commits         ██████████░░░░░░░░░░░░░░░   38.43 % 
 🌙 Night                  319 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   384 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Tuesday                  330 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Wednesday                312 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Thursday                 390 commits         █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+Tuesday                  330 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Wednesday                312 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Thursday                 390 commits         █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
 Friday                   243 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
 Saturday                 228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Sunday                   259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Sunday                   260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
 ```
 
 

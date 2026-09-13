@@ -62,13 +62,13 @@ Sunday                   273 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    1 hr                █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Google Calendar          1 hr                █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Unknown OS               1 hr                █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -82,9 +82,9 @@ No AI Coding Activity Tracked This Week
 ```text
 Python                   20 repos            █████████░░░░░░░░░░░░░░░░   35.71 % 
 TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Lua                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 
 
